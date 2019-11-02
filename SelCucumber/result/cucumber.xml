@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="30.036365">
+<testcase classname="Create Lead" name="Create a new Lead" time="15.709974">
+<system-out><![CDATA[Given Enter userName DemoSalesManager.......................................passed
+And Enter password crmsfa...................................................passed
+And click Login.............................................................passed
+And click CRM/SFA...........................................................passed
+And click Leads.............................................................passed
+And click Create Lead Link..................................................passed
+And Enter Company Name TL...................................................passed
+And Enter First Name Babu...................................................passed
+And Enter Last Name M.......................................................passed
+And Click Create Lead Button................................................passed
+And Verify First Name Babu..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Create Lead" name="Create a new Lead 2" time="14.326391">
+<system-out><![CDATA[Given Enter userName Democsr................................................passed
+And Enter password crmsfa...................................................passed
+And click Login.............................................................passed
+And click CRM/SFA...........................................................passed
+And click Leads.............................................................passed
+And click Create Lead Link..................................................passed
+And Enter Company Name Qeagle...............................................passed
+And Enter First Name Gopi...................................................passed
+And Enter Last Name J.......................................................passed
+And Click Create Lead Button................................................passed
+And Verify First Name Gopi..................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
